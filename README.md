@@ -8,13 +8,13 @@ This project analyzes historical supply chain data to evaluate delivery performa
 
 The project combines Python-based data preparation, SQL analysis, and interactive Power BI dashboards to identify operational challenges and support data-driven business decisions.
 
-## Business Objectives
+## Analysis Performed
 
-- Evaluate delivery performance and identify late-shipment patterns.
-- Compare delivery delays across shipping modes and regions.
-- Measure sales associated with late deliveries.
-- Analyze sales and profitability by product category.
-- Identify opportunities for operational improvements.
+- Evaluated supply chain delivery performance and identified late-shipment patterns.
+- Compared shipping delays across different shipping modes and geographic regions.
+- Measured sales associated with late deliveries to assess business exposure.
+- Analyzed sales, profitability, and profit margins across product categories.
+- Identified operational improvement opportunities and developed data-driven business recommendations.
 
 ## Tools and Technologies
 
